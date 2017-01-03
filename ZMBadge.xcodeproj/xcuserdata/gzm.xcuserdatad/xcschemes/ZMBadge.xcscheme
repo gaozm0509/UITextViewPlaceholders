@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "8050EB0B1E0182E70094CDB9"
-               BuildableName = "UITextViewPlaceholders.app"
-               BlueprintName = "UITextViewPlaceholders"
-               ReferencedContainer = "container:UITextViewPlaceholders.xcodeproj">
+               BlueprintIdentifier = "155F121B1E1B5468000A90E9"
+               BuildableName = "ZMBadge.app"
+               BlueprintName = "ZMBadge"
+               ReferencedContainer = "container:ZMBadge.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "8050EB0B1E0182E70094CDB9"
-            BuildableName = "UITextViewPlaceholders.app"
-            BlueprintName = "UITextViewPlaceholders"
-            ReferencedContainer = "container:UITextViewPlaceholders.xcodeproj">
+            BlueprintIdentifier = "155F121B1E1B5468000A90E9"
+            BuildableName = "ZMBadge.app"
+            BlueprintName = "ZMBadge"
+            ReferencedContainer = "container:ZMBadge.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -55,10 +55,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "8050EB0B1E0182E70094CDB9"
-            BuildableName = "UITextViewPlaceholders.app"
-            BlueprintName = "UITextViewPlaceholders"
-            ReferencedContainer = "container:UITextViewPlaceholders.xcodeproj">
+            BlueprintIdentifier = "155F121B1E1B5468000A90E9"
+            BuildableName = "ZMBadge.app"
+            BlueprintName = "ZMBadge"
+            ReferencedContainer = "container:ZMBadge.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -74,10 +74,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "8050EB0B1E0182E70094CDB9"
-            BuildableName = "UITextViewPlaceholders.app"
-            BlueprintName = "UITextViewPlaceholders"
-            ReferencedContainer = "container:UITextViewPlaceholders.xcodeproj">
+            BlueprintIdentifier = "155F121B1E1B5468000A90E9"
+            BuildableName = "ZMBadge.app"
+            BlueprintName = "ZMBadge"
+            ReferencedContainer = "container:ZMBadge.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

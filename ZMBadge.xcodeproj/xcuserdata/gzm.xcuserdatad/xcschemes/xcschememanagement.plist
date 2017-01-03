@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>UITextViewPlaceholders.xcscheme</key>
+		<key>ZMBadge.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,7 +12,7 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>8050EB0B1E0182E70094CDB9</key>
+		<key>155F121B1E1B5468000A90E9</key>
 		<dict>
 			<key>primary</key>
 			<true/>

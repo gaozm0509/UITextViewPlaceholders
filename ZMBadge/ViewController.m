@@ -1,12 +1,13 @@
 //
 //  ViewController.m
-//  UITextViewPlaceholders
+//  ZMBadge
 //
-//  Created by 高泽民 on 16/12/14.
-//  Copyright © 2016年 zm. All rights reserved.
+//  Created by gzm on 17/1/3.
+//  Copyright © 2017年 gzm. All rights reserved.
 //
 
 #import "ViewController.h"
+#import "UIView+ZMBadge.h"
 
 @interface ViewController ()
 
@@ -16,7 +17,11 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view, typically from a nib.
+    
+    UIView *view = [[UIView alloc]initWithFrame:CGRectMake(100, 100, 100, 100)];
+    view.badge = @"100";
+    view.backgroundColor = [UIColor greenColor];
+    [self.view addSubview:view];
 }
 
 
